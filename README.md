@@ -3,7 +3,7 @@ Gagandeep Gambhir</a></h1>
 <h3 align="center">A passionate Web/Mobile App developer from Pubjab &#127470;&#127475</h3>
 <br/>
 <a target="_blank" align="center">
-  <img align="right" top="500" width="45%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" width="40%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
