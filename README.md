@@ -7,16 +7,11 @@ Gagandeep Gambhir</a></h1>
 </a>
 
 
-- 🌱 I’m currently Working on Mobile App (React-Native)
+- 🌱 You are at the right place for turning your ideas into reality!
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for full time long-term projects only.
 
 - 💬 Ask me about **Laravel, Reactjs & React-Native**
-
-- 📫 How to reach me **gagandeepgambhir2@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/gagandeepgambhir2/gagandeepgambhir2/blob/main/cv.pdf" target="blank">Resume</a>
-<br/>
 
 ![Gagan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=gagandeepgambhir2&theme=algolia)
 
