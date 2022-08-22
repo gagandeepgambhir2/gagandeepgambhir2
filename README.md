@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/gagandeepgambhir2" target="blank">
 Gagandeep Gambhir</a></h1>
-<h3 align="center">A Top Rated PHP, Laravel & React Developer from Pubjab &#127470;&#127475</h3>
+<h3 align="center">A Top Rated PHP, Laravel & React Developer from India &#127470;&#127475</h3>
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" width="40%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
