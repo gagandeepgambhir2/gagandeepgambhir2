@@ -2,10 +2,10 @@
 Gagandeep Gambhir</a></h1>
 <h3 align="center">A Top Rated PHP, Laravel & React Developer from India &#127470;&#127475</h3>
 <br/>
-<a target="_blank" align="center">
-  <img align="right" top="500" width="40%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
+<h2>About Me</h2>
+
+****Being a passionate Top-Rated Plus programmer, I am highly motivated to either build quality products from scratch or vastly improve existing ones. I rarely take on new projects, but when I do, building a long-lasting partnership is my main focus.****
 
 - 🌱 You are at the right place for turning your ideas into reality!
 
@@ -13,7 +13,23 @@ Gagandeep Gambhir</a></h1>
 
 - 💬 Ask me about **Laravel, Reactjs & React-Native**
 
-![Gagan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=gagandeepgambhir2&theme=algolia)
+<h2> Skills</h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<br/>
+
+<h2> Stats</h2>
+
+[![Gagan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gagandeepgambhir2&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagandeepgambhir2&show_icons=true&theme=tokyonight) | ![Gagan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gagandeepgambhir2&theme=tokyonight) |
+| --- | --- |
 
 
 ---
