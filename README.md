@@ -23,8 +23,6 @@ Gagandeep Gambhir</a></h1>
  <div align="center"  class="icons-social">
         <a target="_blank" href="https://www.linkedin.com/in/gagandeep-gambhir-85a50645/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>&nbsp;
-        <a target="_blank" href="https://github.com/gagandeepgambhir2">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>&nbsp;
 		<a target="_blank" href="https://stackoverflow.com/users/6755791/gagandeep-gambhir">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>&nbsp;
 		<a target="_blank" href="https://www.upwork.com/freelancers/gagandeepgambhir2">
