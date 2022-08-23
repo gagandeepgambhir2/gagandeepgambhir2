@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/gagandeepgambhir2" target="blank">
 Gagandeep Gambhir</a></h1>
-<h3 align="center">A Top Rated PHP, Laravel & React Developer from India &#127470;&#127475</h3>
+<h3 align="center">A Top Rated PHP, Laravel & React Developer from India</h3>
 <br/>
 
 <h2>About Me</h2>
@@ -18,6 +18,7 @@ Gagandeep Gambhir</a></h1>
 <a href="#">  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>&nbsp;
 <a href="#">  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
 <a href="#">  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>&nbsp;
+<a href="#">  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>&nbsp;
 <a href="#">  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>&nbsp;
 <a href="#">  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp;
 <a href="#">  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>&nbsp;
