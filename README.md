@@ -174,7 +174,5 @@ Gagandeep Gambhir</a></h1>
     </a>
   </p>
   
-  ---
-  
 </div>
 
