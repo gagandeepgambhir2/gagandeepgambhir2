@@ -101,6 +101,37 @@ Gagandeep Gambhir</a></h1>
 
 ---
 
+## 🚀 Featured AI Projects & Expertise
+<div align="left">
+
+### 🤖 **AI Agents & Automation**
+- **Autonomous AI Agents**: Building self-directed agents using LangChain, AutoGPT patterns, and CrewAI
+- **MCP Integration**: Expert in Model Context Protocol for seamless AI-tool communication
+- **n8n Workflows**: Complex automation workflows integrating multiple AI services and APIs
+- **RAG Systems**: Production-grade Retrieval-Augmented Generation for intelligent document processing
+
+### 🎯 **Prompt Engineering**
+- **Advanced Techniques**: Chain-of-thought, few-shot, tree-of-thought, and ReAct prompting
+- **Prompt Optimization**: A/B testing and iterative refinement for optimal outputs
+- **Custom GPTs & Assistants**: Building specialized AI assistants for domain-specific tasks
+- **Multi-modal Prompting**: Working with text, vision, code generation, and audio models
+
+### ⚡ **LLM Integration & Fine-tuning**
+- **API Integration**: OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face
+- **Fine-tuning**: Custom model training using LoRA, QLoRA for specialized use cases
+- **Embeddings & Vector Search**: Semantic search, similarity matching, and knowledge retrieval
+- **Cost Optimization**: Token management, caching strategies, and model selection
+
+### 🔧 **Production AI Systems**
+- **Scalable Architecture**: Microservices, serverless, and event-driven AI systems
+- **MLOps & LLMOps**: Model versioning, monitoring, and deployment pipelines
+- **Security & Compliance**: Data privacy, prompt injection prevention, and audit trails
+- **Performance Optimization**: Response streaming, batching, and edge deployment
+
+</div>
+
+---
+
 <h2> Stats</h2>
 
 [![Gagan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gagandeepgambhir2&theme=tokyonight)](https://git.io/praveenscience)
