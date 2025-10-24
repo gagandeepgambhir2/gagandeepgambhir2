@@ -15,6 +15,7 @@ Gagandeep Gambhir</a></h1>
 ---
 ## 🤖 AI & Automation Stack
 <div align="center">
+
 ### AI & LLMs
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
@@ -23,6 +24,7 @@ Gagandeep Gambhir</a></h1>
   <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
+
 ### AI Development & Frameworks
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3348?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
@@ -31,6 +33,7 @@ Gagandeep Gambhir</a></h1>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
 </p>
+
 ### Automation & Integration
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -39,6 +42,7 @@ Gagandeep Gambhir</a></h1>
   <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge&logo=flowise&logoColor=white" alt="Flowise" />
   <img src="https://img.shields.io/badge/Botpress-0084FF?style=for-the-badge&logo=botpress&logoColor=white" alt="Botpress" />
 </p>
+
 ### Vector Databases & RAG
 <p>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
@@ -47,6 +51,7 @@ Gagandeep Gambhir</a></h1>
   <img src="https://img.shields.io/badge/Qdrant-FF5A00?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
   <img src="https://img.shields.io/badge/Milvus-00A8E1?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
 </p>
+
 ### AI Specializations
 <p>
   <img src="https://img.shields.io/badge/🎯_Prompt_Engineering-4CAF50?style=for-the-badge" alt="Prompt Engineering" />
