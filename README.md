@@ -5,12 +5,12 @@ Gagandeep Gambhir</a></h1>
 
 ****Being a passionate Top-Rated Plus programmer, I am highly motivated to either build quality products from scratch or vastly improve existing ones. I rarely take on new projects, but when I do, building a long-lasting partnership is my main focus.****
 
-🤖 Building AI-first products that think, act, and evolve
-🎓 MCA graduate | Full Stack Developer turned AI Engineer
-🧠 Deep knowledge in Prompt Engineering, Agentic AI, MCP Frameworks, and Workflow Automation
-💡 Exploring LLM Integrations, RAG Systems, and real-world AI use case
-⚡ On a mission to make automation smarter and systems more human
-✨ “Turning AI dreams into working products.”
+- 🤖 Building AI-first products that think, act, and evolve
+- 🎓 MCA graduate | Full Stack Developer turned AI Engineer
+- 🧠 Deep knowledge in Prompt Engineering, Agentic AI, MCP Frameworks, and Workflow Automation
+- 💡 Exploring LLM Integrations, RAG Systems, and real-world AI use case
+- ⚡ On a mission to make automation smarter and systems more human
+- ✨ “Turning AI dreams into working products.”
 
 <h2>Tools and Frameworks I Use for AI & Automation</h2>
 <h3 align="center">AI & LLMs</h3>
