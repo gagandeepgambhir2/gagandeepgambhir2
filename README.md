@@ -132,13 +132,24 @@ Gagandeep Gambhir</a></h1>
 
 ---
 
-<h2> Stats</h2>
+## 📊 GitHub Stats
 
-[![Gagan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gagandeepgambhir2&theme=tokyonight)](https://git.io/praveenscience)
+<div align="center">
+  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gagandeepgambhir2&show_icons=true&theme=tokyonight" alt="Sunny's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-mahajan&layout=compact&show_icons=true&theme=algolia" alt="Top Languages" /></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=gagandeepgambhir2&theme=dracula&column=4&row=1" alt="GitHub Trophies" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=sunny-mahajan&theme=tokyonight" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
-| ![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagandeepgambhir2&show_icons=true&theme=tokyonight) | ![Gagan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gagandeepgambhir2&theme=tokyonight) |
-| --- | --- |
-
+</div>
 
 ---
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
