@@ -154,23 +154,21 @@ Gagandeep Gambhir</a></h1>
 ---
 ## 📫 Let's Connect & Collaborate
 <div align="center">
-  
-  **I'm always excited to work on innovative AI projects and help businesses leverage the power of artificial intelligence!**
-  
+
   <p>
-    <a href="mailto:sunny@techformation.co.in">
+    <a href="mailto:gagandeepgambhir2@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/sunny-mahajan">
+    <a href="https://www.linkedin.com/in/gagandeep-gambhir-85a50645">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/sunny-mahajan">
+    <a href="https://github.com/gagandeepgambhir2">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://stackoverflow.com/users/3247211/sunny-kumar">
+    <a href="https://stackoverflow.com/users/6755791/gagandeep-gambhir">
       <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
     </a>
-    <a href="https://www.upwork.com/freelancers/~01e3fa253812ff4958">
+    <a href="https://www.upwork.com/freelancers/gagandeepgambhir2">
       <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
     </a>
   </p>
