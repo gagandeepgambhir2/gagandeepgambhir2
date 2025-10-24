@@ -153,6 +153,7 @@ Gagandeep Gambhir</a></h1>
 
 ---
 ## 📫 Let's Connect & Collaborate
+
 <div align="center">
 
   <p>
@@ -174,10 +175,6 @@ Gagandeep Gambhir</a></h1>
   </p>
   
   ---
-  
-  <p>
-    <i>🚀 Building the future with AI, one intelligent system at a time!</i>
-  </p>
   
 </div>
 
