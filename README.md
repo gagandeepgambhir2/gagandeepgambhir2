@@ -152,17 +152,34 @@ Gagandeep Gambhir</a></h1>
 </div>
 
 ---
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="center">
-
- <div align="center"  class="icons-social">
-        <a target="_blank" href="https://www.linkedin.com/in/gagandeep-gambhir-85a50645/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>&nbsp;
-		<a target="_blank" href="https://stackoverflow.com/users/6755791/gagandeep-gambhir">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>&nbsp;
-		<a target="_blank" href="https://www.upwork.com/freelancers/gagandeepgambhir2">
-				<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png"></a>
-      </div>
-
-</p>
+## 📫 Let's Connect & Collaborate
+<div align="center">
+  
+  **I'm always excited to work on innovative AI projects and help businesses leverage the power of artificial intelligence!**
+  
+  <p>
+    <a href="mailto:sunny@techformation.co.in">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/sunny-mahajan">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/sunny-mahajan">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://stackoverflow.com/users/3247211/sunny-kumar">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01e3fa253812ff4958">
+      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
+    </a>
+  </p>
+  
+  ---
+  
+  <p>
+    <i>🚀 Building the future with AI, one intelligent system at a time!</i>
+  </p>
+  
+</div>
 
